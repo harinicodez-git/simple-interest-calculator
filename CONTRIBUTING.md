@@ -2,6 +2,7 @@
 
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-## Guidelines
-- Follow clean code
-- Test before submitting
+## How to Contribute
+- Fork the repo
+- Make changes
+- Submit pull request
