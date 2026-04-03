@@ -2,7 +2,8 @@
 
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-## How to Contribute
-- Fork the repo
+## Guidelines
+- Fork the repository
+- Create a branch
 - Make changes
-- Submit pull request
+- Submit a pull request
