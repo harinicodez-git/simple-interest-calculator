@@ -1,24 +1,24 @@
 # Code of Conduct
 
 ## Our Pledge
-We pledge to make participation respectful and harassment-free.
+We pledge to make participation in this project a harassment-free experience.
 
 ## Our Standards
-- Use welcoming language
 - Be respectful
+- Use welcoming language
 - Avoid offensive behavior
 
 ## Enforcement Responsibilities
-Maintainers are responsible for enforcing rules.
+Project maintainers are responsible for enforcing the code of conduct.
 
 ## Scope
-Applies to all project spaces.
+This Code of Conduct applies within all project spaces.
 
 ## Enforcement
-Violations will be reviewed and acted upon.
+Instances of unacceptable behavior may be reported and reviewed.
 
 ## Enforcement Guidelines
-Warnings or bans may be applied.
+Warnings or bans may be applied based on severity.
 
 ## Attribution
-This Code is adapted from open-source standards.
+This Code of Conduct is adapted from open-source community standards.
