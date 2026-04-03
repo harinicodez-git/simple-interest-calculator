@@ -1,20 +1,20 @@
 # Simple Interest Calculator
 
 ## Description
-This project is a simple interest calculator that computes interest based on user input.
+A simple interest calculator application that calculates simple interest based on user input.
 
-## Formula Used
-Simple Interest = (Principal × Rate × Time) / 100
+## Formula
+Simple Interest = (Principal × Rate of Interest × Time Period) / 100
 
 ## Input Fields
-- Principal
-- Rate of Interest
-- Time Period
+Principal  
+Rate of Interest  
+Time Period  
 
 ## Output
-- Displays calculated simple interest
+Displays the calculated simple interest.
 
 ## Features
-- Takes user input
-- Calculates simple interest
-- Displays result
+Accepts user input for principal, rate of interest, and time period  
+Calculates simple interest  
+Displays the result
